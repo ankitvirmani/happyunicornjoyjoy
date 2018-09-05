@@ -1,1 +1,2 @@
-Removed old text and addeed new text
+Removed old text and added new text
+and added more text using Atom
